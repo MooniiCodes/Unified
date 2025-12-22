@@ -10,6 +10,11 @@
     "safenet.tech": {
         "ip": "mooniicodes.github.io/Unified/UniHosts/SafeNet/safenet.tech/",
         "host": "SafeNet"
+    },
+    "chinchilla.hub": {
+        "ip": "mooniicodes.github.io/Unified/UniHosts/RobHost/chinchilla.hub/",
+        "host": "RobHost"
     }
 }
+
 

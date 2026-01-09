@@ -3,9 +3,24 @@
   <head>
     <title>Unified</title>
     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+    <script>
+      function search() {
+        const inputElement = document.getElementById('search');
+
+        // Access the value property
+        const inputValue = inputElement.value;
+
+        // Use the value (e.g., log it to the console or display it)
+        console.log('User input:', inputValue);
+        alert('You entered: ' + inputValue);
+      }
+    </script>
   </head>
   <body>
     <h1>Unified</h1>
     <h3><strong>Unified</strong> Browser is not ready.</h3>
+    <label></label>
+    <input type="text" id="search">
+    <button onclick="search()">Search</button>
   </body>
 </html>

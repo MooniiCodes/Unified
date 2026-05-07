@@ -14,7 +14,11 @@
     "chinchilla.hub": {
         "ip": "mooniicodes.github.io/Unified/UniHosts/RobHost/chinchilla.hub/",
         "host": "RobHost"
-    }
+    },
+    "moonii.org": {
+        "ip": "moonii.org",
+        "host": "Unified Hosting"
+    },
     "canigetaspyware": {
         "ip": "google.com",
         "host": "Internal"
